@@ -1,1 +1,16 @@
-Xây dựng hệ an ninh thông tin CMS
+PRÉAMBULE PROJET (Giới thiệu về dự án)
+- Nom du Projet (Tên dự án): Xây dựng hệ an ninh thông tin CMS (Content Management System)
+- Année de création (năm thành lập): 2016
+
+- Résumé succinct du projet (tóm tắt dự án):
++ Xây dựng 1 hệ CMS (hệ thống quản lý nội dung) đảm bảo an toàn thông tin cho các đơn vị hành chính công cấp quận-huyện trên địa bàn Miền Trung.
++ Dựa trên Framework Lavalite
++ Hệ thống website đã được kiểm định và vượt qua được các công cụ pentest như: w3af, Nikto, ...
+
+- Historique du projet (Lý do, nguyên nhân tạo ra dự án): (Brève description du contexte, la problématique ciblée, les modalités de financement… etc.) 
++ Thực trạng về tình hình ứng dụng CNTT cho các đơn vị hành chính công cấp quận-huyện là các lo ngại về: Kinh phí xây dựng web; Kinh phí cho việc xây dựng hạ tầng; Kinh phí cho việc duy trì sự hoạt động (sẵn sàng - an ninh) & đảm bảo tính bảo mật cho các thông tin lưu trữ; Ngoài ra còn chi phí về đào tạo người sử dụng và chuyên viên an ninh.
++ Dẫn đến: Không sử dụng trao đổi thông tin trên mạng hoặc sử dụng nhưng bỏ ngõ vấn đề an ninh.
+
+- Partenaires, entreprises et organisation impliqués dans le projet (Đối tác, công ty, tổ chức tham gia dự án): Không
+- Aspects relatifs à la propriété intellectuelle (Chứng chỉ về sở hữu trí tuệ, bằng sáng chế) (Licences d’exploitation, brevets acquis ou envisagés… etc.): Chưa
+- Budget prévisionnel (Ngân sách dự kiến): inférieur à €1000
