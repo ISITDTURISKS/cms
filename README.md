@@ -11,4 +11,4 @@ Giải pháp:
 - Dựa trên Framework Lavalite và các công cụ mã nguồn mở khác.
 - Hệ thống đã được kiểm định an ninh thông qua các công cụ pentest như: w3af, Nikto, ...
 ################################################################################################################################
-Hà Nội - 25/09/2016
+Hà Nội-25/09/2016
